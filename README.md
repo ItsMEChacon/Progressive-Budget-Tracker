@@ -5,9 +5,7 @@
 
   > ## *Table of Contents*
   - [Description](#Description)
-  - [Usage](#Usage)
   - [Contributing](#Contributing)
-  - [Tests](#Tests)
   - [Questions](#Questions)
   
   > ## *Description*
